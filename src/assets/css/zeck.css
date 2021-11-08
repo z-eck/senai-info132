@@ -1,4 +1,19 @@
-.palavra{
+html{
 
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+
+}
+
+.palavra{
     text-align: center;
+    text-align-last: center;
+    margin: 25px 50px 75px;
+    padding: 25px 50px 75px;
+    
 }
